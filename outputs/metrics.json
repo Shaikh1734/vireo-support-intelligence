@@ -1,0 +1,67 @@
+{
+  "business": {
+    "deduped_tickets": 11875,
+    "raw_rows": 12528,
+    "repeat_rate": 0.12362105263157895,
+    "repeat_contacts": 1468,
+    "sla_breach_rate": 0.08850526315789474,
+    "csat_response_rate": 0.5910736842105263,
+    "other_share": 0.1424,
+    "current_weekly_repeat_contacts": 80.35368421052632,
+    "target_weekly_repeat_contacts": 65.0,
+    "weekly_contact_reduction": 15.353684210526325,
+    "weekly_saving_inr": 4452.568421052634,
+    "quarterly_saving_inr": 57883.38947368425
+  },
+  "cancellation_signal": {
+    "other_tickets": 1691,
+    "signal_tickets": 225,
+    "share_of_other": 0.13305736250739209
+  },
+  "model_evaluation": {
+    "sample_size": 2375,
+    "accuracy": 0.8261052631578948,
+    "error_rate": 0.1738947368421052
+  },
+  "latest_digest": {
+    "week": "2026-06-23/2026-06-29",
+    "tickets": 205,
+    "repeat_rate": 0.12682926829268293,
+    "sla_breach_rate": 0.07804878048780488,
+    "top_categories": [
+      {
+        "category": "Delivery & Shipping",
+        "tickets": 32
+      },
+      {
+        "category": "Other",
+        "tickets": 29
+      },
+      {
+        "category": "Returns & Refunds",
+        "tickets": 27
+      },
+      {
+        "category": "Charging & Battery",
+        "tickets": 27
+      },
+      {
+        "category": "Billing & Payments",
+        "tickets": 23
+      },
+      {
+        "category": "Connectivity",
+        "tickets": 20
+      },
+      {
+        "category": "Audio Quality",
+        "tickets": 14
+      },
+      {
+        "category": "Product Enquiry",
+        "tickets": 12
+      }
+    ],
+    "other_topics": []
+  }
+}

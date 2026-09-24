@@ -1,0 +1,362 @@
+ticket_id,created_at,first_response_at,resolved_at,status,channel,customer_id,order_id,product_sku,category,priority,assigned_team,agent_id,transfers,csat_score,refund_amount_inr,refund_reason_code,replacement_issued,customer_message,agent_notes,source_system
+DEMO-00001,2025-12-27 11:32,2025-12-27 14:11,2025-12-27 14:26,resolved,social,DEMO-C00001,DEMO-ORDER,VA-EB-PL1,Audio Quality,Normal,Chat Frontline,DEMO-A001,0,,,,N,works for music but useless for meetings. [ID]. please call me on my registered number,"mic issue | checked mic permissions on phone -> permissions fixed, resolved",helpdesk
+DEMO-00002,2025-08-22 21:13,2025-08-23 00:23,2025-08-22 19:17,resolved,email,DEMO-C00002,,VA-EB-PL2,Connectivity,Normal,Email Frontline,DEMO-A002,0,0.0,,,N,Very poor quality. This is regarding the Pulse 2 earbuds. bluetooth keeps cutting out. I already turned off wifi. Escalate this to someone senior.,"re: connection dropping | checked fw 1.4.8 -> advised, cx will monitor",legacy_fd
+DEMO-00003,2025-11-17 15:19,2025-11-17 15:22,2025-11-17 16:00,resolved,chat,DEMO-C00003,,VA-EB-AIR,Charging & Battery,Normal,Chat Frontline,DEMO-A003,0,4.0,,,N,"I am losing patience. I bought the AirLite buds on 30 Oct. I have to charge it twice a day now, it used to last days. I already fully charged and discharged twice. I want a replacement or refund, nothing else.",esc to warranty. issue: battery draining fast. checked fw 3.0.9.,helpdesk
+DEMO-00004,2025-11-13 14:35,2025-11-13 15:26,2025-11-13 15:47,resolved,voice,DEMO-C00004,DEMO-ORDER,VA-EB-PL2,Billing & Payments,Normal,Billing,DEMO-A004,0,,,,N,"[IVR transcript] i have been a loyal customer and this is how you treat me. this is regarding pulse 2. please share invice with gst number. i already cheecked orders page. i want a replacement or refund, nothing else",see prev ~Diya,helpdesk
+DEMO-00005,2025-09-26 16:37,2025-09-26 16:44,2025-09-26 17:24,resolved,chat,DEMO-C00005,,VA-EB-PL1,Connectivity,Normal,Chat Frontline,DEMO-A005,0,,,,N,Again the same thing.  This is regarding pulse 1. Not pairing with my phone. I restarted the phone. Nothing changed. Can someone fix this?,"cx says was told fixed last time. reset done, paired ok. issue: unable to pair with phone. walked through forget + re-pair.",helpdesk
+DEMO-00006,2025-11-30 08:19,2025-11-30 08:48,2025-12-02 09:16,resolved,chat,DEMO-C00006,DEMO-ORDER,VA-HP-ST2,Returns & Refunds,Normal,Returns Desk,DEMO-A006,0,,8498.0,RETURN-QC-OK,N,"Hi there,
+Bought my Strata 2 headphones around 13/11 from Amazon. The return was accepted but the amount is nowhere in my account.
+I emailed twice. Nothing changed.
+What do I do now?
+Please revert, Kavya",Customer states refund delay. Checked refund status on PG. Refund of Rs 8498 initiated to source.,helpdesk
+DEMO-00007,2025-11-04 17:49,2025-11-04 19:12,2025-11-05 19:29,resolved,email,DEMO-C00007,DEMO-ORDER,VA-NB-ARC,Returns & Refunds,Normal,Returns Desk,DEMO-A007,1,,,,N,"Hi team, Order [ID] (my Arc). Stiill waiting for my refund. I emailed twice. Need this sorted this week. Awaiting response Harpreet",refund pending | checked reverse pickup qc status -> refund confirmed credited | xfer chat frontline -SK,helpdesk
+DEMO-00008,2026-04-13 12:58,2026-04-13 14:48,2026-04-25 16:46,resolved,voice,DEMO-C00008,DEMO-ORDER,VA-EB-AIR,Warranty & Repair,Normal,Escalations & Warranty,DEMO-A008,0,4.0,,,N,"claim number RMA56930, anyone alive there? - can someone fix this?","repair completed, shipped back. issue: repair status follow-up. followed up with service centre.",helpdesk
+DEMO-00009,2025-09-05 13:00,2025-09-05 13:02,2025-09-07 07:47,resolved,chat,DEMO-C00009,DEMO-ORDER,VA-EB-PL1,Delivery & Shipping,Normal,Logistics,DEMO-A009,0,0.0,,,Y,"This is very disappointing. I bought Pulse earbuds on 12-08-2025. PICKUP SCHEDULED BUT NO ONE SHOWED UP. I already claled courier. I want a replacement or refund, nothing else.",Cust contacetd re pkp missed. chk pkp AWB. rplc unit dispatched.,legacy_fd
+DEMO-00010,2026-04-17 09:19,2026-04-17 09:31,2026-04-17 10:08,resolved,chat,DEMO-C00010,,VA-EB-PL2,Connectivity,Normal,Chat Frontline,DEMO-A010,0,,,,N,I have been a loyal cutsomer and this is how you treat me. Ordered Pulse2 last month. bluetooth pairing fails every time. I already restarted the phone. Escalate this to someone senior.,"customer reached out - pairing failure. walked through forget + re-pair. reset done, paired ok. [closed]",helpdesk
+DEMO-00011,2026-04-30 16:37,2026-04-30 17:17,2026-04-30 17:41,resolved,email,DEMO-C00011,,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A011,0,3.0,,,N,"Hi there,
+[NAME] 2 from vireo.in in April. It has been 12 days and I have nothing in hand.
+Can someone fix this?
+[NAME]",re-shipped from warehouse [closed],helpdesk
+DEMO-00012,2025-08-08 15:49,2025-08-08 15:53,2025-08-08 10:43,closed,chat,DEMO-C00012,DEMO-ORDER,VA-EB-PL2,Billing & Payments,Normal,Billing,DEMO-A012,0,3.0,3499.0,DUP-PAYMENT,N,"[NAME]/Madam,
+
+I am writing with reference to my order of Pulse 2 placed on 30-07-2025.  Payment went through but I got no order id. I have waited 24 hours. I request you to provide a resolution within 3 working days.
+
+Regards,
+[NAME]",sorted ~Diya,legacy_fd
+DEMO-00013,2025-11-29 00:30,2025-11-29 00:35,2025-11-29 00:43,resolved,chat,DEMO-C00013,,VA-SW-FIT,Other,Normal,Chat Frontline,DEMO-A013,0,4.0,,,N,"Hi team, I bought my [NAME] band on 23/11. Can I connect two my [NAME] band together. I want a replacement. Rgds,",closed ~Kabir,helpdesk
+DEMO-00014,2025-12-02 11:19,2025-12-02 11:26,2025-12-02 11:54,resolved,chat,DEMO-C00014,,VA-SW-NX2,Delivery & Shipping,Normal,Logistics,DEMO-A014,0,2.0,,,N,Not what I expected from Vireo. Ordered the Nexa 2 2 weeks ago. I haven't recieved my order. I already called the courier. This is the lasst tiime I buy from you.,reported: shipment not rcvd. chk awb with courier. re-shipped from warehouse. will monitor.,helpdesk
+DEMO-00015,2026-04-10 21:49,2026-04-11 01:14,2026-04-11 01:26,closed,email,DEMO-C00015,DEMO-ORDER,VA-SP-MINI,Billing & Payments,High,Billing,DEMO-A015,0,,,,N,"hi there,
+got the mini speaker from vireo.in last week. the invoice pdf link gives a 404.
+i tried different browser. nothing changed.
+need this sorted this week.
+rgds, faisal gupta",cx reported invoice query. regenerated invoice. gst invoice regenerated & shared.,helpdesk
+DEMO-00016,2025-08-17 07:35,2025-08-17 09:17,2025-08-17 04:09,resolved,email,DEMO-C00016,DEMO-ORDER,VA-EB-AIR,Delivery & Shipping,Normal,Logistics,DEMO-A016,0,0.0,,,N,"[NAME],
+Bought AirLite around 07 Aug from Amazon.  The courier marked it delivered but nobody in my house got anything.
+I called the courier.
+Not acceptable at this price.
+Please call me on my registered number.
+Thanks in advance",Contact re delivery delayed. Checked AWB with courier. Refund initiated as lost in transit.,legacy_fd
+DEMO-00017,2025-03-09 11:31,2025-03-09 11:39,2025-03-09 06:32,resolved,chat,DEMO-C00017,,VA-SW-NX2,Other,Normal,Chat Frontline,DEMO-A017,0,0.0,,,N,"Product: Nexa 2
+Order: [ID]
+Purchased: 10/02
+Issue: cannot pair Nexa 2 with my laptop
+Tried: forgot the device and tried again
+Expected: refund","ticket raised for device not discoverable. checked phne os version. advised fw update via app, resolved. [closed]",legacy_fd
+DEMO-00018,2025-03-04 18:20,2025-03-05 00:43,2025-03-04 19:52,resolved,social,DEMO-C00018,DEMO-ORDER,VA-NB-ARC,Charging & Battery,Normal,Chat Frontline,DEMO-A018,0,0.0,,,N,"[NAME] support, I bought the neckband on 12-01-2025. Left bud won't charge even after keeping it in the case overnight. I tried another charger. Nothing changed. Please call me on my registered number. Thank you, Aishwarya",rslvd on call,legacy_fd
+DEMO-00019,2025-11-17 19:26,2025-11-18 01:08,2025-11-20 01:19,resolved,social,DEMO-C00019,,VA-AC-CH65,Returns & Refunds,Normal,Returns Desk,DEMO-A019,0,,,,N,Honestly regretting this purchase. Ordered your charger a month ago. nobody caame for the pickup. I already called courier. This is the last time I buy from you.,Contact re pickup not done. Checked pickup AWB. Refund processed without pickup as goodwill. Closing.,helpdesk
+DEMO-00020,2026-02-21 10:54,2026-02-21 12:00,2026-02-21 12:18,resolved,email,DEMO-C00020,,VA-EB-PL2,Connectivity,Normal,Email Frontline,DEMO-A020,0,5.0,,,N,"dear sir/madam,
+
+i am writing with reference to my order of the pulse 2 earbuds placed on 03/02. it goes silent for a second every few minutes & comes back. i have reset both devices. i request you to provide a resolution within 3 working days.
+
+sincerely,
+swati gupta
+thiruvananthapuram","intermittent disconnects | chk interference sources -> adv, cx will monitor (SOP 3.1) ~Sukhwinder",helpdesk
+DEMO-00021,2025-09-23 18:25,2025-09-23 18:27,2025-09-23 18:55,resolved,chat,DEMO-C00021,,VA-EB-PL2,Audio Quality,Normal,Chat Frontline,DEMO-A001,0,,,,Y,"hi
+left sde has no audio at all
+urgent","no audio one side | asked cx to check bud in case -> replacement raised, rma shared w/ cx",helpdesk
+DEMO-00022,2025-05-12 09:47,2025-05-12 13:34,2025-05-12 08:22,resolved,email,DEMO-C00022,DEMO-ORDER,VA-EB-PL1,Connectivity,Normal,Email Frontline,DEMO-A002,0,0.0,,,N,"[NAME] earbuds from Amazoon around Diwali.  Blueooth keeps cutting out.
+I reset both devices. Nothing changed.
+Please advise.
+Awaitting response",ticket raised for intermittent disconnects. checked fw 2.2.5. replacement raised. cx satisfied on chat. -YM,legacy_fd
+DEMO-00023,2025-10-12 15:12,2025-10-12 15:19,2025-10-12 15:43,resolved,chat,DEMO-C00023,DEMO-ORDER,VA-EB-PL1,Other,Normal,Chat Frontline,DEMO-A003,0,4.0,2499.0,DUP-PAYMENT,N,"hello, i bought pulse earbuds on october 12. i was charged twice for one order. i checked with bank. please help. please revert, shreya",as discussed,helpdesk
+DEMO-00024,2026-02-14 12:25,2026-02-14 12:28,2026-02-14 12:47,closed,chat,DEMO-C00024,DEMO-ORDER,VA-EB-PL2,App & Firmware,Normal,Chat Frontline,DEMO-A004,0,,,,N,"bhai
+can't get past the loading screen in the app
+pulse2 [ID]
+pls reply","cx reached out - app crash on device page. Known issue on Android 14 - bug logged. Bug logged, workaround shared. (SOP 4.2)",helpdesk
+DEMO-00025,2026-02-12 18:20,2026-02-12 18:58,2026-02-12 19:16,resolved,voice,DEMO-C00025,DEMO-ORDER,VA-EB-PL1,Other,Normal,Voice Frontline,DEMO-A005,0,,,,N,"[IVR transcript] ordeered the wrong colour, don't ship it - please call me on my registered number","cx says order cancellation. cancelled before dispatch. cancelled, rfnd initiated. ~Vihaan",helpdesk
+DEMO-00026,2025-10-13 18:35,2025-10-13 18:46,2025-10-16 19:03,closed,chat,DEMO-C00026,DEMO-ORDER,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A006,0,3.0,,,N,"hello vireo,
+i bought my pulse 2 on 21/11. i haven't received my order.
+i checked the tracking page daily.
+i want a replacement.
+rgds,","contact re ord not delivered. raised ticket w/ crr partner. rto conf, reshipped. closing.",helpdesk
+DEMO-00027,2025-09-02 19:30,2025-09-02 19:34,2025-09-07 19:50,resolved,chat,DEMO-C00027,,VA-SP-ORB,Delivery & Shipping,Low,Logistics,DEMO-A007,0,,,,N,"Still not fixed after your last 'resolution'.
+Product: my [NAME]: 05-08-2025
+Issue: my order has not been delivered yet
+Tried: checked with neighbours
+Expected: resolution","contact re dlvry delayed. raised ticket w/ crr partner. rto conf, reshipped. cx informed. [closed]",helpdesk
+DEMO-00028,2025-12-05 10:41,2025-12-05 10:45,2025-12-08 11:14,resolved,chat,DEMO-C00028,,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A008,0,,,,N,this is very disappointing. bought the pulse 2 earbuds around 05-12-2025 from vireo.in. i ordered the pulse 2 earbuds and got something else. i already checked the invoice. escalate this to someone senior.,customer states wrong item delivered. verified order vs delivered item photos. reverse pkp + correct item shipped. closing.,helpdesk
+DEMO-00029,2025-12-06 08:02,2025-12-06 08:17,2025-12-06 08:33,resolved,voice,DEMO-C00029,DEMO-ORDER,VA-EB-PL1,Connectivity,Normal,Voice Frontline,DEMO-A009,0,4.0,,,N,"[IVR transcript] dear team, bought pulse earbuds around october 26 from amazon. it goes silent for a second every few minutes and comes back. i reset both devices. please call me on my registered number. rgds sukhwinder",intermittent disconnects | advised to test in different location -> replacement raised ~Vihaan,helpdesk
+DEMO-00030,2025-11-07 12:50,2025-11-07 13:31,2025-11-10 13:43,resolved,voice,DEMO-C00030,,VA-SP-MINI,Returns & Refunds,Normal,Returns Desk,DEMO-A010,0,3.0,1187.0,RETURN-QC-OK,N,[IVR transcript] This is very disappointing. Got orbit mini from vireo.in 3 weeks back. the return was accepted but the amount is nowhere in my account. I already checekd bank. Refund. Now.,Customer reached out - refund delay. Checked refund status on PG. Refund of Rs 1187 initiated to source.,helpdesk
+DEMO-00031,2025-06-21 18:33,2025-06-21 19:31,2025-06-21 19:46,resolved,social,DEMO-C00031,DEMO-ORDER,VA-SW-NX2,Other,Normal,Chat Frontline,DEMO-A011,0,,5524.0,CANCEL,N,"bhai
+cancel order vr892447
+nexa 2 [ID]",refunded rs 5524. issue: cancel order. chk shipment status.,helpdesk
+DEMO-00032,2025-10-03 03:53,2025-10-03 03:54,2025-10-05 05:00,resolved,chat,DEMO-C00032,,VA-SW-FIT,Warranty & Repair,Normal,Escalations & Warranty,DEMO-A012,0,4.0,1999.0,DOA-REPL,N,"hi,
+ordered the fit band around diwali. screen has a crack before i even switched it on.
+i took photos. nothing changed.
+please call me on my registered number.","1. Damaged in transit
+2. Photos received, damage confirmed
+3. [NAME] 1999",helpdesk
+DEMO-00033,2025-04-22 12:46,2025-04-22 14:06,2025-04-22 14:26,resolved,email,DEMO-C00033,DEMO-ORDER,VA-HP-ST3,Billing & Payments,High,Billing,DEMO-A013,0,,,,N,"Hello, [NAME] 3 from vireo.in a month ago. Invoice not downloading. I checked orders page. Honestly regretting this purchase. I want a replacement. Thank you, [NAME]",as discussed ~Diya,helpdesk
+DEMO-00034,2025-11-05 14:16,2025-11-05 14:16,2025-11-06 14:34,resolved,chat,DEMO-C00034,,VA-HP-ST3,Delivery & Shipping,Normal,Logistics,DEMO-A014,0,4.0,,,Y,opened the parcel & it is a completely different thing. i want a replacement,reported: wrong variant received. raised w/ warehouse. rplc unit dispatched. follow-up not required. [closed],helpdesk
+DEMO-00035,2026-06-26 19:30,2026-06-26 19:36,2026-06-29 20:08,resolved,chat,DEMO-C00035,DEMO-ORDER,VA-SP-ORB,Returns & Refunds,Normal,Returns Desk,DEMO-A015,0,4.0,5999.0,RETURN-QC-OK,N,"still waiting for my refund, vr884054","1. rfnd not credited
+2. chk reverse pkp QC status
+3. rfnd reprocessed",helpdesk
+DEMO-00036,2025-09-10 08:05,2025-09-10 09:00,2025-09-10 04:00,resolved,social,DEMO-C00036,DEMO-ORDER,VA-HP-ST3,Returns & Refunds,Normal,Returns Desk,DEMO-A016,0,0.0,6299.0,RETURN-QC-OK,N,Not acceptable at this price. This is regarding my Strata 3 headphones. the box says my Strata 3 headphones but what's inside is not what I paid for. I already rechecked my order. Fix this or I am posting on twitter.,"Cx says incorrect product shipped. Raised with warehouse. Refund approved, Rs 6299, 5-7 working days.",legacy_fd
+DEMO-00037,2025-08-04 17:50,2025-08-04 18:10,2025-08-07 13:04,resolved,chat,DEMO-C00037,DEMO-ORDER,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A017,0,0.0,,,N,it has been 6 days and i have nothing in hand. please help,"cx states ord not delivered. conf address with cx. rto conf, reshipped. cx informed. [closed]",legacy_fd
+DEMO-00038,2026-05-07 23:39,2026-05-07 23:45,2026-05-07 23:54,resolved,chat,DEMO-C00038,DEMO-ORDER,VA-EB-PL2,Product Enquiry,Normal,Chat Frontline,DEMO-A018,0,,,,N,"product: pulse2
+order: vr902473
+purchased: 25/02
+issue: will this survive a shower
+expected: resolution","1. Pre-sales query
+2. Shared spec sheet
+3. Cx satisfied -SK",helpdesk
+DEMO-00039,2025-10-09 11:54,2025-10-09 12:03,2025-10-09 12:33,resolved,chat,DEMO-C00039,,VA-AC-CASE,Returns & Refunds,Low,Returns Desk,DEMO-A019,0,5.0,1299.0,RETURN-QC-OK,N,"hey
+refund not received yet",Cust contacted re refund delay. Checked refund status on PG. Refund of Rs 1299 initiated to source.,helpdesk
+DEMO-00040,2025-12-20 18:27,2025-12-20 21:26,,open,social,DEMO-C00040,DEMO-ORDER,VA-EB-PL2,Other,Normal,Chat Frontline,DEMO-A020,0,4.0,,,N,"order not delivered, tracking not updating, please help","re: dlvry delayed | checked awb with crr -> rto conf, reshipped (SOP 4.2)",helpdesk
+DEMO-00041,2025-09-14 08:53,2025-09-14 08:59,2025-09-14 09:37,resolved,chat,DEMO-C00041,DEMO-ORDER,VA-HP-ST3,Audio Quality,Normal,Chat Frontline,DEMO-A001,1,,,,Y,"Hi team, Bought my Strata 3 headdphones around 19 Jul frmo Flipkart.  Sounds like a badly tuned radio now. I tried different apps. Kindly look into it","Replacement raised, RMA shared with cx. Issue: crackling/distortion. Asked for a recording. [NAME] Desk.",helpdesk
+DEMO-00042,2026-01-13 18:51,2026-01-13 19:05,2026-01-15 19:33,resolved,chat,DEMO-C00042,DEMO-ORDER,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A002,0,,700.0,LOST-TRANSIT,N,"hi
+my order has not been delivered yet
+pulse2 [ID]
+kindly do the needful","cx says dlvry delayed. chk awb w/ courier. rfnd approved, rs 700, 5-7 working days. closing. [closed]",helpdesk
+DEMO-00043,2025-10-07 21:14,2025-10-08 01:37,2025-10-08 01:58,resolved,email,DEMO-C00043,,VA-EB-PL2,Billing & Payments,Low,Billing,DEMO-A003,0,,,,N,"the invoice PDF link gives a 404
+what do i do now?","1. invoice not downloading
+2. updated gstin on order
+3. gst invoice regenerated & shared",helpdesk
+DEMO-00044,2026-06-26 12:27,2026-06-26 14:52,2026-06-26 15:21,resolved,email,DEMO-C00044,DEMO-ORDER,VA-EB-PL1,Charging & Battery,Low,Email Frontline,DEMO-A004,0,,1250.0,WTY-BUYBACK,N,"I have been a loyal customer & this is how you treat me.  Ordered my Pulse a month ago. LEFT EARBUD NOT CHARGING, RIGHT ONE IS FINE. I already removed & reinserted it 10 times. Escalate this to someone senior.",-,helpdesk
+DEMO-00045,2026-04-20 09:44,2026-04-20 09:45,2026-04-20 09:55,resolved,chat,DEMO-C00045,DEMO-ORDER,VA-EB-PL1,Billing & Payments,High,Billing,DEMO-A005,0,3.0,,,N,"team,
+change of mind, please stop the shipment
+abhi tak kuch nahi hua
+pulse 1 [ID]
+??","cx: order cancellation | checked shipment status -> already shipped, advised rto/return",helpdesk
+DEMO-00046,2025-06-27 07:36,2025-06-27 07:42,2025-06-27 02:22,resolved,chat,DEMO-C00046,,VA-SP-ORB,Product Enquiry,Normal,Chat Frontline,DEMO-A006,0,3.0,,,N,"Product: the Orbit smart speaker
+Purchased: 25/06
+Issue: is the Orbit smart speaker compatible with my TV
+Expected: callback",Cx reported compatibility query. Shared spec sheet. Query answered. (SOP 3.1),legacy_fd
+DEMO-00047,2025-08-22 14:40,2025-08-22 14:40,2025-08-23 09:23,resolved,chat,DEMO-C00047,,VA-EB-PL2,Billing & Payments,High,Billing,DEMO-A007,0,0.0,2974.0,RETURN-QC-OK,N,"got the pulse 2 earbuds from flipkart last week.  refund was promised 5 days ago and nothing. i emailed twice. how do i get this fixed? awaiting response,",refund reprocessed ~Diya,legacy_fd
+DEMO-00048,2026-02-28 03:33,2026-02-28 04:12,2026-02-28 04:37,resolved,email,DEMO-C00048,DEMO-ORDER,VA-EB-PL2,Delivery & Shipping,Normal,Logistics,DEMO-A008,0,,,,N,"bought pulse 2 around 17 feb from amazon. my order has not been delivered yet.
+please call me on my registered number.
+thanks & regards",Cx says order not delivered. Confiirmed address with cx. Re-shipped from warehouse.,helpdesk
+DEMO-00049,2026-01-27 13:09,2026-01-27 13:10,2026-01-27 13:49,resolved,chat,DEMO-C00049,,VA-SP-MINI,Billing & Payments,High,Billing,DEMO-A009,0,3.0,,,N,"Bought the mini speaker around 17/01 from vireo.in. My bank says Rs 1799 went to you but ur site says I have no orders.
+I tried logging out and in. Nothing changed.
+I am losing patience.
+Kindly look into it.",ticket raised for failed order after payment. conf with payment gateway. rfnd processed to source.,helpdesk
+DEMO-00050,2025-12-16 15:50,2025-12-16 15:59,2025-12-19 16:26,resolved,chat,DEMO-C00050,,VA-AC-CASE,Returns & Refunds,High,Returns Desk,DEMO-A010,0,,1299.0,RETURN-QC-OK,N,"Product: the charging case I ordered
+Order: [ID]
+Purchased: November 24
+Issue: refund not received yet
+Tried: emailed twice
+Expected: replacement",re: refund not credited | checked reverse pkp qc status -> refund reprocessed,helpdesk
+DEMO-00051,2025-04-22 13:49,2025-04-22 15:36,2025-04-25 10:24,resolved,voice,DEMO-C00051,DEMO-ORDER,VA-HP-ST2,Delivery & Shipping,Normal,Logistics,DEMO-A011,0,3.0,,,N,[IVR transcript] my order has not been delivered yet.  vr898570. please call me on my regiistered numebr,"1. Delivery delayed
+2. Raised ticket w/ crr partner
+3. RTO confirmed, reshipped",legacy_fd
+DEMO-00052,2026-02-07 00:49,2026-02-07 06:37,2026-02-10 07:02,resolved,email,DEMO-C00052,,VA-AC-CBL,Delivery & Shipping,Normal,Logistics,DEMO-A012,0,2.0,,,N,"hello ji
+tracking has said out for delivery for a week now
+please help karo
+braided cable
+hello??","1. shipment not received
+2. raised ticket with crr partner
+3. crr confirmed dlvry for 11 feb, cx informed",helpdesk
+DEMO-00053,2026-06-30 22:39,2026-06-30 22:59,2026-06-30 23:15,resolved,email,DEMO-C00053,DEMO-ORDER,VA-EB-PL2,Billing & Payments,High,Billing,DEMO-A013,0,,3499.0,DUP-PAYMENT,N,"dear sir/madam,
+
+i am writing with reference to my ordder of pulse2 (vr909302) placed on 24-05-2026. two entries of rs 4999 on my statement for one pair of earbuds. i have checked with bank. i request you to look into this matter at the earliest.
+
+sincerely,
+jaspreet chauhan",second contact on same fault. refund of rs 3499 initiated to source. issue: duplicate payment. confirmed utrs.,helpdesk
+DEMO-00054,2025-05-05 17:35,2025-05-05 18:23,2025-05-05 18:44,closed,voice,DEMO-C00054,DEMO-ORDER,VA-EB-AIR,Returns & Refunds,Normal,Returns Desk,DEMO-A014,0,,,,N,"[IVR transcript] return pickup has not happened, [ID]","pkp done, rfnd initiated. Issue: pkp not done. chk pkp AWB.",helpdesk
+DEMO-00055,2026-04-11 11:50,2026-04-11 11:52,2026-04-11 12:18,resolved,chat,DEMO-C00055,DEMO-ORDER,VA-NB-ARC,Connectivity,Normal,Chat Frontline,DEMO-A015,0,,,,Y,"it goes silent for a second every few minutes and comes back
+[ID]","Reported: BT dropouts. chk interference sources. rplc approved, reverse pkp arranged.",helpdesk
+DEMO-00056,2026-05-20 21:29,2026-05-20 21:30,2026-05-20 21:54,resolved,chat,DEMO-C00056,DEMO-ORDER,VA-EB-PL2,Audio Quality,Normal,Chat Frontline,DEMO-A016,0,4.0,,,N,"this is very disappointing. ordered pulse 2 around diwali. microphone is very low on the pulse 2. i already checked mic permissions. i want a replacement or refund, nothing else.",mic issue | chk mic permissions on phone -> fw update advised,helpdesk
+DEMO-00057,2025-04-02 20:15,2025-04-02 20:16,2025-04-02 15:07,resolved,chat,DEMO-C00057,DEMO-ORDER,VA-EB-AIR,Connectivity,Normal,Chat Frontline,DEMO-A017,0,0.0,,,N,"it connects for a second and then vanishes from the device list
+[ID]
+what do i do now?","ticket raised for pairing failure. asked cx to reset the device. reset done, paired ok.",legacy_fd
+DEMO-00058,2026-03-07 16:55,2026-03-07 16:58,2026-03-07 17:14,resolved,chat,DEMO-C00058,,VA-EB-PL2,Connectivity,Normal,Chat Frontline,DEMO-A018,0,4.0,,,N,"to the vireo customer care team,
+
+i am writing wth reference to my order of pulse 2 placed on 08 nov.  the sound stutters whneever my phone is in my pocket. i haev kept phone in hand. i request you to porcess a refund to my original payment method.
+
+yours faithfully,
+rajat rathore",FW update resolved. Issue: intermittent disconnects. Checked FW 3.7.0.,helpdesk
+DEMO-00059,2026-02-26 00:19,2026-02-26 04:36,2026-02-26 05:10,resolved,email,DEMO-C00059,,VA-EB-PL2,App & Firmware,Low,Email Frontline,DEMO-A019,0,3.0,,,N,"after the update prompt it went dark and never came back, need this sorted this week",Contact re update hang. chk FW 3.5.4 rollout. Recovery successful. Follow-up not required. //ROH,helpdesk
+DEMO-00060,2025-08-25 11:54,2025-08-25 12:15,2025-08-25 07:02,resolved,social,DEMO-C00060,,VA-SP-ORB,Other,Normal,Chat Frontline,DEMO-A020,0,4.0,,,N,"HI SIR
+NEED TO CHANGE DELIVERY ADDRESS
+ABHI TAK KUCH NAHI HUA
+THE ORBIT SMART SPEAKER",Address updated. Issue: wrong pincode. Updated address with courier.,legacy_fd
+DEMO-00061,2026-02-11 10:17,2026-02-11 12:13,2026-02-11 12:31,closed,email,DEMO-C00061,DEMO-ORDER,VA-EB-PL1,Other,Normal,Email Frontline,DEMO-A001,0,,1999.0,CANCEL,N,"i have been a loyal customer and this is how you treat me. this is regarding my pulse. ordered the wrong colour, don't ship it. i already tried cancel button, greyed out. refund. now.",cust contacted re cancel ord. checked shipment status. full rfnd processed (1999).,helpdesk
+DEMO-00062,2026-06-27 20:49,2026-06-27 22:40,2026-06-28 22:59,resolved,email,DEMO-C00062,DEMO-ORDER,VA-EB-PL2,Delivery & Shipping,High,Logistics,DEMO-A002,0,3.0,,,Y,"helo
+same issue as before, it came back after 2 weeks.
+received the wrong item
+hello??","prev ticket closed, issue recurred. sorted",helpdesk
+DEMO-00063,2025-09-05 00:18,2025-09-05 00:18,2025-09-04 19:09,resolved,chat,DEMO-C00063,DEMO-ORDER,VA-EB-AIR,Charging & Battery,Normal,Chat Frontline,DEMO-A003,0,0.0,,,N,"Hi team, airlite earbuds purchased 2 weeks ago, order [ID].  BATTERY BACKUP IS TERRIBLE NOW. I fully charged and discharged twice. Nothing changed. Please advise. Thanks in advance",cx states rapid battery drain. Checked usage pattern w/ cx. rplc raised after test. Follow-up not required. //ROH,legacy_fd
+DEMO-00064,2025-04-12 21:49,2025-04-12 22:49,,pending,chat,DEMO-C00064,,VA-EB-PL1,Billing & Payments,High,Billing,DEMO-A004,0,2.0,2499.0,RETURN-QC-OK,N,"Hello, I bought my Pulse on April 08. Still waiting for my refund. Need this sorted this week. Thanks & regards [NAME]","1. Refund not credited
+2. Checked reverse pickup QC status
+3. ARN shared with cx -MM",legacy_fd
+DEMO-00065,2025-06-22 15:33,2025-06-22 18:28,2025-06-22 13:24,resolved,email,DEMO-C00065,DEMO-ORDER,VA-EB-AIR,Charging & Battery,Normal,Email Frontline,DEMO-A005,0,0.0,,,N,"Product: the AirLite buds
+Order: [ID]
+Purchased: 27/04
+Issue: battery life has dropped to almost nothing
+Tried: tuned off always-on display
+Expected: resolution","re: poor battery backup | advised disabling anc/aod to test -> advised settings change, cx satisfied (sop 2.7) ~Kavya",legacy_fd
+DEMO-00066,2025-05-02 15:49,2025-05-02 16:03,,open,social,DEMO-C00066,DEMO-ORDER,VA-NB-ARC,Charging & Battery,High,Chat Frontline,DEMO-A006,1,0.0,,,N,"helo
+battery draining even when not in use
+??","advised settings change, cx satisfied. issue: battery draining fast. checked usage pattern with cx.",legacy_fd
+DEMO-00067,2026-01-17 10:14,2026-01-17 10:29,2026-01-17 10:40,resolved,chat,DEMO-C00067,,VA-SW-FIT,Billing & Payments,High,Billing,DEMO-A007,0,,,,N,"[NAME] support,
+This is regarding my [NAME] band. Your ad said 20% off and the cart says full price.
+I tried in caps. Nothing changed.
+How do I get this fixed?
+Please revert","1. Discount not applied
+2. Checked coupon validity
+3. Advised coupon terms, resolved -MM",helpdesk
+DEMO-00068,2025-02-10 11:47,2025-02-10 14:43,2025-02-13 09:27,resolved,email,DEMO-C00068,DEMO-ORDER,VA-EB-PL1,Returns & Refunds,Low,Returns Desk,DEMO-A008,0,0.0,2124.0,RETURN-QC-OK,N,"i have been a loyal customer & this is how u treat me.  my pulse purchased a month ago, order vr887548. u picked up the item 13 dasy ago & my money hasn't come back. i already emailed twice. fix this or i am posting on twitter.","1. Refund delay
+2. Checked reverse pkp QC status
+3. [NAME] 2124",legacy_fd
+DEMO-00069,2026-05-14 07:08,2026-05-14 09:43,2026-05-14 10:06,resolved,email,DEMO-C00069,DEMO-ORDER,VA-EB-PL2,Returns & Refunds,High,Returns Desk,DEMO-A009,0,,,,Y,"hey,
+pulse2 purchased last week, order vr908761.  received damaged product.
+i refused nothing as i didn't notice till later. nothing changed.
+i want a replacement.
+please revert, rajat chopra","Cx says transit damage. Photos received, damage confirmed. Refund initiated.",helpdesk
+DEMO-00070,2026-02-01 05:12,2026-02-01 07:38,,open,email,DEMO-C00070,DEMO-ORDER,VA-HP-ST3,Connectivity,High,Email Frontline,DEMO-A010,0,,,,N,bluetooth keeps cutting out,"cx states prior ticket for same issue. 1. bt dropouts
+2. checked interference sources
+3. advised, cx will monitor -YM",helpdesk
+DEMO-00071,2026-03-14 16:43,2026-03-14 16:44,2026-03-14 17:08,resolved,chat,DEMO-C00071,,VA-EB-PL2,App & Firmware,Normal,Chat Frontline,DEMO-A011,0,,,,N,"Product: Pulse2
+Order: [ID]
+Purchased: 15-02-2026
+Issue: update failed and now it won't turn on
+Tried: kept it in the case
+Expected: refund",replacement raised (bricked). issue: fw update stuck. checked fw 2.3.3 rollout.,helpdesk
+DEMO-00072,2025-12-27 20:05,2025-12-27 21:10,2025-12-27 21:27,resolved,voice,DEMO-C00072,DEMO-ORDER,VA-SW-FIT,Other,Normal,Voice Frontline,DEMO-A012,0,,,,N,[IVR transcript] Honestly reggretting this purchase.  I bought the fit band on December 24. entered wrong pincode. I already tride editing in app. Refund. Now.,"cx reached out - address update. updated address w/ crr. already dispatched, advised to redirect w/ crr. ~Vihaan",helpdesk
+DEMO-00073,2026-03-19 16:46,2026-03-19 16:50,,open,chat,DEMO-C00073,,VA-EB-PL2,Other,High,Chat Frontline,DEMO-A013,0,,3324.0,CANCEL,N,"hi
+please cancel, ordered by mistake
+my pulse 2","1. order cancellation
+2. cancelled before dispatch
+3. full rfnd processed (3324)",helpdesk
+DEMO-00074,2025-04-02 17:07,2025-04-02 17:10,2025-04-02 11:53,resolved,chat,DEMO-C00074,DEMO-ORDER,VA-SW-FIT,Account & Login,Normal,Chat Frontline,DEMO-A014,0,0.0,,,N,"To the [NAME] [NAME],
+
+I am writing with reference to my order of [NAME] ([ID]) placed on 25/02. Cannot login to my account. I have tried 5 times. I request you to process a refund to my original payment method.
+
+Regards,
+[NAME]","cx states login issue. checked otp logs. otp resent, cx logged in. ~Ayaan",legacy_fd
+DEMO-00075,2026-01-25 16:21,2026-01-25 16:29,2026-01-25 17:01,resolved,chat,DEMO-C00075,,VA-EB-PL2,App & Firmware,Normal,Chat Frontline,DEMO-A015,0,4.0,,,N,"[NAME]/Madam,
+
+I am writing with reference to my order of Pulse 2 placed on 16 Dec. Battery drains very fast, barely lasts 2 hours. I have turned off always-on display. I request you to proivde a resolution within 3 working days.
+
+Yorus faithfully,
+[NAME]",closed,helpdesk
+DEMO-00076,2025-08-31 15:56,2025-08-31 15:58,2025-08-31 11:07,resolved,chat,DEMO-C00076,DEMO-ORDER,VA-EB-PL2,Connectivity,Normal,Chat Frontline,DEMO-A016,0,0.0,,,N,"Very poor quality. Pulse2 purchased last month, order [ID]. keeps losing my phone if I walk to the other room. I already reset both devices. Fix this or I am posting on twitter.","1. intermittent disconnects
+2. checked fw 1.4.5
+3. adv, cx will monitor",legacy_fd
+DEMO-00077,2025-10-27 22:44,2025-10-27 22:47,2025-10-27 23:18,resolved,chat,DEMO-C00077,DEMO-ORDER,VA-SP-ORB,Charging & Battery,Normal,Chat Frontline,DEMO-A017,0,,,,N,"hey
+the progress bar has not mooved since morning",Contact re firmware update failed. Asked cx to keep in case 30 min. Replacement raised (bricked). Cx satisfied on chat. //ROH,helpdesk
+DEMO-00078,2025-12-02 15:24,2025-12-02 15:28,2025-12-02 15:51,resolved,chat,DEMO-C00078,DEMO-ORDER,VA-HP-ST3,Billing & Payments,High,Billing,DEMO-A018,0,,,,N,"Product: my Strata 3 headphones
+Order: [ID]
+Purchased: 20-11-2025
+Issue: the invoice PDF link gives a 404
+Tried: checked orders page
+Expected: fix",closed ~Diya,helpdesk
+DEMO-00079,2025-05-16 10:08,2025-05-16 10:10,2025-05-16 05:19,resolved,chat,DEMO-C00079,DEMO-ORDER,VA-EB-PL1,Connectivity,Normal,Chat Frontline,DEMO-A019,0,0.0,,,N,really frustrating. ordered pulse earbuds a month ago. audio keeps disconnecting evey few minutes. i already kpet phone in hand. fix this or i am posting on twitter.,"1. Intermittent disconnects
+2. Checked interference sources
+3. Replacement raised",legacy_fd
+DEMO-00080,2025-05-05 14:40,2025-05-05 15:04,2025-05-07 15:19,resolved,chat,DEMO-C00080,,VA-NB-ARC,Delivery & Shipping,Normal,Logistics,DEMO-A020,0,3.0,,,N,package not delivered even after 18 days,"crr conf dlvry for 08 may, cx informed. issue: dlvry delayed. conf address w/ cx. [closed]",helpdesk
+DEMO-00081,2025-11-30 19:22,2025-11-30 19:25,,open,chat,DEMO-C00081,DEMO-ORDER,VA-SP-ORB,Other,Normal,Chat Frontline,DEMO-A001,0,4.0,,,N,"Hi, Bought my Orbit around May 23 from vireo.in. It connects for a second and then vanishes from the device list. I restarted the phone. Nothing changed. Honestly regretting this purchase. I want my money back. RGDS ANANYA","re-pair successful, rslvd on chat. issue: device not discoverable. chk phone os version.",helpdesk
+DEMO-00082,2026-01-10 08:01,2026-01-10 09:00,2026-01-10 09:24,resolved,voice,DEMO-C00082,DEMO-ORDER,VA-EB-PL2,Product Enquiry,Normal,Voice Frontline,DEMO-A002,0,4.0,,,N,"Hey,
+Got the Pulse 2 earbuds from Flipkart a month ago.  Discount was not applied at checkout.
+I tried in caps.
+Please advise.
+Thank you","1. Coupon not applied
+2. Checked cart eligibility
+3. Store credit issued (SOP 2.7) ~Farah",helpdesk
+DEMO-00083,2025-08-10 07:28,2025-08-10 08:15,2025-08-11 03:06,resolved,email,DEMO-C00083,,VA-EB-PL2,Returns & Refunds,Normal,Returns Desk,DEMO-A003,0,0.0,,,N,pickup scheduled but no one showed up,Cx reported reverse pickup pending. Checked pickup AWB. Refund processed without pickup as goodwill. Follow-up not required.,legacy_fd
+DEMO-00084,2025-03-24 11:39,2025-03-24 11:42,,open,chat,DEMO-C00084,,VA-EB-AIR,Warranty & Repair,Normal,Escalations & Warranty,DEMO-A004,0,0.0,,,Y,really frustrating.  i bought airlite earbuds on 17/03. left bud won't charge een after keepig it in the case overnight. i already tried a different cable. this is the last time i buy from you.,"Cust contacted re left earbud not taking charge. Asked for photo of the bud contacts. Replacement approved, reverse pickup arranged. ~Vivaan",legacy_fd
+DEMO-00085,2025-04-29 10:27,2025-04-29 10:33,2025-05-01 10:49,resolved,voice,DEMO-C00085,,VA-SP-ORB,Returns & Refunds,Normal,Returns Desk,DEMO-A005,0,3.0,1080.0,RETURN-QC-OK,N,[IVR transcript] Really frustrating.  [NAME] speaker from vireo.in last month. where is the money for the return. I already checked bank. Refund. Now.,Customer states refund not credited. Checked refund status on PG. Full refund processed (1080).,helpdesk
+DEMO-00086,2025-11-15 20:18,2025-11-15 21:36,2025-11-15 21:56,closed,email,DEMO-C00086,,VA-SP-MINI,Returns & Refunds,Normal,Returns Desk,DEMO-A006,0,,300.0,RETURN-QC-OK,N,i am losing patience. ordered the mini speaker 2 weeks ago. pickup scheduled but no one showed up. i already called courier. escalate this to someone senior.,"1. Pickup missed
+2. Checked pickup AWB
+3. rfnd of Rs 300 initiated to source",helpdesk
+DEMO-00087,2025-07-12 10:15,2025-07-12 15:52,2025-07-12 10:36,resolved,social,DEMO-C00087,DEMO-ORDER,VA-EB-PL1,Audio Quality,Normal,Chat Frontline,DEMO-A007,0,0.0,,,N,"to the vireo customer care team,
+
+i am writing witth reference to my order of my pusle (vr894418) placed on 07/06. static noise when playing music. i have tried wireed mode. i request you to kindly arrrange a replacement.
+
+regards,
+rohit saxena","audio distortion | asked for a recording -> fw update, cx to monitor",legacy_fd
+DEMO-00088,2025-04-17 17:35,2025-04-17 18:43,2025-04-17 13:32,resolved,email,DEMO-C00088,DEMO-ORDER,VA-EB-AIR,Connectivity,Normal,Email Frontline,DEMO-A008,1,0.0,,,N,"[NAME]/Madam, Third time now. Bought airlite earbuds around February 26 from Amazon. Keeps losing my phone if I walk to the other room. I kept phone in hand. Nothing changed. Waiting for your reply. Regards, [NAME]","cx unhappy, contacted earlier re same. done ~Diya",legacy_fd
+DEMO-00089,2026-02-09 16:14,2026-02-09 18:01,2026-02-09 18:15,resolved,voice,DEMO-C00089,,VA-SW-FIT,Returns & Refunds,Normal,Returns Desk,DEMO-A009,1,,1599.0,RETURN-QC-OK,N,"refund not received yet, kindly look into it","1. Refund not credited
+2. Checked refund status on PG
+3. Refund confirmed credited",helpdesk
+DEMO-00090,2025-09-03 20:33,2025-09-03 20:39,2025-09-03 15:29,resolved,chat,DEMO-C00090,DEMO-ORDER,VA-HP-ST3,Delivery & Shipping,Normal,Logistics,DEMO-A010,0,0.0,,,N,"namaste, this is regarding strata 3. the courier marked it delivered but nobody in my house got anything. i checked with neighbours. nothing changed. can someone fix this?",contact re delivery delayed. chk awb with crr. rfnd initiated as lost in transit. follow-up not required. [closed],legacy_fd
+DEMO-00091,2025-04-22 00:23,2025-04-22 02:05,2025-04-21 20:56,resolved,email,DEMO-C00091,,VA-NB-ARC,Billing & Payments,High,Billing,DEMO-A011,0,4.0,,,N,Really frustrating.  This is regarding Arc neckband. coupon code not working. I already tired in caps. Escalate this to someone senior.,"1. Promo code invalid
+2. Checked coupon validity
+3. Partial refund of discount amount issued -MM",legacy_fd
+DEMO-00092,2026-02-03 10:22,2026-02-03 10:29,2026-02-03 10:57,resolved,chat,DEMO-C00092,DEMO-ORDER,VA-SP-ORB,App & Firmware,Normal,Chat Frontline,DEMO-A012,0,,,,N,"product: the orbit smart speaker
+order: vr903872
+purchased: 28/12
+issue: app crashes when i open device settings
+tried: cleared cache
+expected: refund","Cust contacted re app crash on device page. Known issue on Android 14 - bug logged. adv beta build, resolved. (SOP 2.7)",helpdesk
+DEMO-00093,2026-05-05 19:17,2026-05-05 19:22,2026-05-08 19:35,closed,chat,DEMO-C00093,,VA-SW-NX2,Delivery & Shipping,Normal,Logistics,DEMO-A013,0,,,,N,"hi
+i haven't receeived my order
+my nexa 2 watch
+kindly do the needful","1. Delivery delayed
+2. Raised tickte w/ crr partner
+3. Refund initiaated as lost in transit",helpdesk
+DEMO-00094,2025-08-14 12:30,2025-08-14 12:39,2025-08-14 07:28,resolved,voice,DEMO-C00094,DEMO-ORDER,VA-SW-NX1,Charging & Battery,Normal,Voice Frontline,DEMO-A014,0,3.0,,,N,this is regrading the nexa smartwatch.  battery draining even when not in use. i want my money back. regards,rlc raised after test. Issue: poor battery backup. Checked FW 1.6.0. (SOP 5.4) ~Farah,legacy_fd
+DEMO-00095,2025-11-06 11:09,2025-11-06 11:14,2025-11-06 11:24,resolved,chat,DEMO-C00095,,VA-SP-ORB,Billing & Payments,High,Billing,DEMO-A015,0,,,,N,"product: the orbit smart speaker
+purchased: 29-10-2025
+issue: coupon code not working
+tried: tried on app and website
+expected: fix","issue: discount not applied | checked cart eligibility -> advised coupon terms, resolved",helpdesk
+DEMO-00096,2026-01-27 20:59,2026-01-27 21:00,2026-01-27 21:27,resolved,chat,DEMO-C00096,,VA-EB-PL2,Audio Quality,Normal,Chat Frontline,DEMO-A016,0,,,,N,"hi team,
+i bought pulse 2 buds on 10/10. one of them is just decoratoin at this point.
+how do i get this fixed?
+please revert",replacement raised. issue: right side silent. walked through reset.,helpdesk
+DEMO-00097,2026-05-09 12:38,2026-05-09 12:46,2026-05-12 13:03,resolved,chat,DEMO-C00097,DEMO-ORDER,VA-AC-CASE,Returns & Refunds,Normal,Returns Desk,DEMO-A017,0,,1234.0,RETURN-QC-OK,N,"Hi, Bought replacement csae around 25/04 frmo Amazon. You picked up the iem 5 days ago and my money hasn't come back. I checked bank. Please call me on my registered number. [NAME]",Ticket raised for refund delay. Checked reverse pickup QC status. Full refund processed (1234).,helpdesk
+DEMO-00098,2025-12-27 18:16,2025-12-27 23:25,2025-12-27 23:47,resolved,email,DEMO-C00098,DEMO-ORDER,VA-EB-PL2,Connectivity,Normal,Email Frontline,DEMO-A018,0,,,,N,"Hi, I bought the Pulse 2 earbuds on November 05. Bleutooth keeps cutting out. I kept phone in hand. Nothing changed. What do I do now? Thanks, Riika",contact re bt dropouts. checked interference sources. replacement raised.,helpdesk
+DEMO-00099,2026-04-09 06:00,2026-04-09 07:29,2026-04-09 08:03,resolved,email,DEMO-C00099,,VA-EB-PL2,Billing & Payments,Normal,Billing,DEMO-A019,0,3.0,3499.0,DUP-PAYMENT,N,"hi
+my earlier ticket got closed without a fix.
+my bank says rs 4999 went to you but your site says i have no orders
+kindly do the needful",issue: failed order after payment | checked pg dashboard for txn -> refund of rs 3499 initiated to source,helpdesk
+DEMO-00100,2025-11-22 06:13,2025-11-22 06:57,2025-11-22 07:11,resolved,social,DEMO-C00100,DEMO-ORDER,VA-EB-PL2,Billing & Payments,High,Billing,DEMO-A020,0,5.0,,,N,"Hi team, I bought the Pulse 2 earbuds on 12-11-2025. Plesae share invoice wiht GST number. I tried different browser. Waiting for your reply. Thanks in advance, [NAME]",Cx reported GST invoice request. Regenerated invoice. GST invoice regenerated and shared. (SOP 5.4) -MM,helpdesk
+DEMO-00101,2026-04-27 14:28,2026-04-27 14:30,2026-04-27 15:03,resolved,chat,DEMO-C00101,DEMO-ORDER,VA-SW-FIT,Returns & Refunds,Normal,Returns Desk,DEMO-A001,0,5.0,,,N,"Hi,
+Ordered my [NAME] band last month. Still waiting for my refund.
+I want my money back.
+Please revert, Lakshmi","1. Refund pending
+2. Checked refund status on PG
+3. Refund reprocessed",helpdesk
+DEMO-00102,2026-03-23 20:00,2026-03-23 20:06,2026-03-23 20:30,resolved,chat,DEMO-C00102,DEMO-ORDER,VA-EB-PL1,App & Firmware,Low,Chat Frontline,DEMO-A002,0,5.0,,,N,"Hi team,
+[NAME] earbuds from Amazon last week.  [NAME] app keeps crashing.
+I cleared cache. Nothing changed.
+Not acceptable at this price.
+Kindly look into it.
+Thanks in advance [NAME]","1. app crashing
+2. asked for phone model + os
+3. cleared cache, resolved",helpdesk
+DEMO-00103,2025-08-10 20:48,2025-08-10 20:49,2025-08-12 15:42,resolved,chat,DEMO-C00103,DEMO-ORDER,VA-EB-PL1,Delivery & Shipping,Normal,Logistics,DEMO-A003,0,0.0,,,N,Pathetic experince honestly. Following up on my earlier complaint - noothing has changed. This is regarding my Pulse. I ordered my Pulse and got something else. I already rechecked my order. Refund. Now.,"cx says was told fixed last time. reported: incorrect product shipped. raised with warehouse. rfnd issued, cx did not want rplc. cx informed. [closed]",legacy_fd
+DEMO-00104,2025-04-17 03:53,2025-04-17 05:05,2025-04-22 00:03,resolved,social,DEMO-C00104,DEMO-ORDER,VA-SW-NX2,Delivery & Shipping,Normal,Logistics,DEMO-A004,0,3.0,,,N,really frustrating. raised this last month and was told it was resolved. i bought nexa 2 on 05/04. order status stuck on shipped since 05/04. i already checked with neighbours. fix this or i am posting on twitter.,"Tickte raised for shipment not received. Raised ticket w/ crr partner. RTO confirmed, reshipped.",legacy_fd
+DEMO-00105,2025-09-29 22:20,2025-09-29 22:21,2025-09-29 22:36,closed,chat,DEMO-C00105,,VA-HP-ST3,Other,Low,Chat Frontline,DEMO-A005,0,3.0,,,N,"hello
+paid on 19 sep, still waiting for something to show up
+my strata 3 headphones","crr conf dlvry for 30 Sep, cx informed. Issue: shipment not rcvd. chk AWB with crr. [closed]",helpdesk
+DEMO-00106,2026-04-02 03:12,2026-04-02 05:32,2026-04-02 05:55,closed,email,DEMO-C00106,DEMO-ORDER,VA-EB-PL2,Other,Normal,Email Frontline,DEMO-A006,0,4.0,,,N,This is very disappointing. I bought my Pulse 2 on May 31. locked out of my own account since around Diwali. I already tried 5 times. Refund. Now.,"Ticket raised for unable to log in. chk OTP logs. OTP resent, cx logged in. Follow-up not required. //ROH",helpdesk
+DEMO-00107,2026-01-18 00:18,2026-01-18 02:27,2026-01-18 03:07,resolved,social,DEMO-C00107,DEMO-ORDER,VA-EB-PL1,Charging & Battery,Normal,Chat Frontline,DEMO-A007,0,4.0,,,Y,"helo
+left earbud not charging, right one is fine",cx states left bud not charging. Walked through factory reset. rplc raised for full set. Cx informed. //ROH,helpdesk
+DEMO-00108,2026-01-10 01:04,2026-01-10 01:09,2026-01-10 01:22,resolved,chat,DEMO-C00108,DEMO-ORDER,VA-SP-ORB,Product Enquiry,High,Chat Frontline,DEMO-A008,0,,,,N,"sir ji
+is my orbit compatible with my tv
+please help karo",Cx says product enquiry. Shared spec sheet. Cx satisfied. Case closed with cx consent. //ROH,helpdesk
+DEMO-00109,2026-06-02 16:15,2026-06-02 22:10,2026-06-02 22:22,resolved,social,DEMO-C00109,,VA-EB-AIR,Billing & Payments,High,Billing,DEMO-A009,0,,,,N,"[NAME]/Madam,
+
+I am writing wth reference to my order of AirLite placed on 02/06.  Coupon code not working. I haev trid on app and website. I request you to process a refund to my original paymnt method.
+
+Yours faithfully,
+[NAME]
+Kolkata","reported: coupon not applied. checked coupon validity. adv coupon terms, rslvd.",helpdesk
+DEMO-00110,2026-05-01 11:08,2026-05-01 14:00,2026-05-01 14:25,closed,social,DEMO-C00110,DEMO-ORDER,VA-EB-PL1,Connectivity,Normal,Chat Frontline,DEMO-A010,0,4.0,,,N,not acceptable at this price.  bought pulse earbuds around april 18 from vireo.in. random disconnects during calls. i already turned off wifi. escalate this to someone senior.,see prev,helpdesk
+DEMO-00111,2025-06-17 14:18,2025-06-17 15:16,2025-06-20 09:59,resolved,email,DEMO-C00111,DEMO-ORDER,VA-EB-PL1,Returns & Refunds,Normal,Returns Desk,DEMO-A011,1,3.0,1000.0,RETURN-QC-OK,N,"dear sir/madam,
+this is regarding pulse 1.  refund was promised 9 days ago & nothing.
+i checked bank. nothing changed.
+i want a replacement.",Cust contacted re refund not credited. Checked refund status on PG. Transferred to [NAME]. Refund conf credited. (SOP 2.7) ~Sukhwinder,legacy_fd
+DEMO-00112,2025-12-17 20:49,2025-12-17 21:01,2025-12-17 21:15,closed,voice,DEMO-C00112,,VA-EB-PL1,Audio Quality,Low,Voice Frontline,DEMO-A012,0,2.0,,,N,people cannot hear me on calls - can someone fix this?,Replacement raised. Issue: mic not working on calls. Checked mic permissions on phone. (SOP 5.4) ~Farah,helpdesk
+DEMO-00113,2025-01-22 11:40,2025-01-22 13:22,2025-01-22 08:04,resolved,email,DEMO-C00113,,VA-EB-PL1,Other,Low,Email Frontline,DEMO-A013,0,0.0,,,N,"hi
+i moved houses yesterday and the order is going to the old flat
+pulse earbuds
+??",Reported: address update. Checked dispatch status. Address updated. (SOP 4.2) ~Sukhwinder,legacy_fd
+DEMO-00114,2025-08-11 21:02,2025-08-11 21:59,2025-08-11 16:34,resolved,email,DEMO-C00114,DEMO-ORDER,VA-EB-PL2,Other,Normal,Email Frontline,DEMO-A014,0,4.0,,,N,will this survive a shower - [ID],query answered,legacy_fd
+DEMO-00115,2025-09-02 15:26,2025-09-02 18:34,2025-09-05 13:34,resolved,social,DEMO-C00115,DEMO-ORDER,VA-EB-PL2,Returns & Refunds,High,Returns Desk,DEMO-A015,0,3.0,525.0,RETURN-QC-OK,N,"Product: Pulse2
+Purchased: 13-08-2025
+Issue: refund not received yet
+Tried: checked bank
+Expected: fix","1. Refund pending
+2. chk refund status on PG
+3. Refund of Rs 525 initiated to source",legacy_fd
+DEMO-00116,2025-07-16 14:00,2025-07-16 14:03,2025-07-16 09:03,resolved,chat,DEMO-C00116,,VA-SP-ORB,Audio Quality,Normal,Chat Frontline,DEMO-A016,0,3.0,,,N,"hi team,
+ordered the orbit smart speaker 2 weeks ago.  distorted audio at hiigh volume.
+i tried wired mode.
+waiting for ur reply.","reported: audio distortion. chk with different source. fw update, cx to monitor. -MI",legacy_fd
+DEMO-00117,2025-10-02 20:27,2025-10-03 00:25,2025-10-03 00:35,resolved,email,DEMO-C00117,,VA-SW-NX2,Billing & Payments,High,Billing,DEMO-A017,0,,,,N,"I was promised a discount on the call, invoice shows none - pelase resolve asap",cx: coupon not applied | checked coupon validity -> store credit issued,helpdesk
+DEMO-00118,2025-04-13 12:51,2025-04-13 12:59,2025-04-13 08:00,resolved,chat,DEMO-C00118,DEMO-ORDER,VA-EB-PL1,Charging & Battery,Normal,Chat Frontline,DEMO-A018,0,0.0,,,N,"Hello, My earlier ticket got closed without a fix. [NAME] earbuds last month. Battery drains very fast, barely lasts 2 hours. I turned off always-on display. Nothing changed. Pathetic experience honestly. Please help.",done,legacy_fd
+DEMO-00119,2026-01-26 13:33,2026-01-26 14:20,2026-01-26 14:38,resolved,voice,DEMO-C00119,,VA-SP-MINI,Account & Login,Normal,Voice Frontline,DEMO-A019,0,,,,N,[IVR transcript] Honstly regretting this purchase. Got orbit mini from vireo.in arund Diwali. locked out of my own account since around Diwali. I already tried 5 times. Escalate this to someoen senior.,Account unlocked. Issue: unable to log in. chk number on account. ~Farah,helpdesk
+DEMO-00120,2025-04-18 15:31,2025-04-18 18:42,2025-04-30 20:28,resolved,email,DEMO-C00120,,VA-EB-PL1,Warranty & Repair,Normal,Escalations & Warranty,DEMO-A020,0,,,,Y,"HEY, THIS IS REGARDING THE PULSE BUDS.  The charging case is not charging. Can someone fix this? Thanks in advance",new unit shipped under doa. issue: case not charging. asked cx to try different cable + adaptor.,helpdesk
